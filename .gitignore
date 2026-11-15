@@ -1,0 +1,7 @@
+build/
+__pycache__/
+*.so
+*.dylib
+*.dll
+.pytest_cache/
+*.egg-info/
