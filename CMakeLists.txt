@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(softorigami_native C)
+set(CMAKE_C_STANDARD 99)
+add_library(softorigami_native SHARED csrc/softorigami_native.c)
+target_link_libraries(softorigami_native PRIVATE m)
