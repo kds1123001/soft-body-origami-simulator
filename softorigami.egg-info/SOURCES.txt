@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+softorigami/__init__.py
+softorigami/energy.py
+softorigami/mesh.py
+softorigami/optimize.py
+softorigami/simulator.py
+softorigami.egg-info/PKG-INFO
+softorigami.egg-info/SOURCES.txt
+softorigami.egg-info/dependency_links.txt
+softorigami.egg-info/requires.txt
+softorigami.egg-info/top_level.txt
+tests/test_autograd.py
